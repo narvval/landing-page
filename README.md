@@ -1,5 +1,6 @@
 A landing page project for _The Odin Project_!
 
+I used to be an English teacher. My mom still is. This website is for her. :)
 
 Photo credits:
 - cottonbro studio: https://www.pexels.com/photo/person-in-red-pants-sitting-on-couch-using-macbook-5054213/
